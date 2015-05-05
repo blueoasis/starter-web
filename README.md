@@ -17,3 +17,8 @@ Contribution Text.
 ## Deployment
 
 Deployment Text
+
+## Copyright
+
+2015 Git.Training
+
