@@ -12,7 +12,7 @@ This is some updated Purpose Text!!
 
 ## How To Contribute
 
-Contribution Text.
+Please fork this repo and issue pull request.
 
 ## Deployment
 
