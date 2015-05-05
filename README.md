@@ -8,7 +8,7 @@ This is an example to show different parts of a git repo.
 
 ## Purpose
 
-Purpose Text
+This is some updated Purpose Text.
 
 ## How To Contribute
 
