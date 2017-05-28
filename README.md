@@ -16,6 +16,8 @@ Deployment can be on any web server or even the local file system.
 
 ## How To Contribute
 
+Please fork this repo and then issue a pull request
+
 ## Copyright
 
 Copyright 2017 Jason
