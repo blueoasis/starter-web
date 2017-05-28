@@ -15,3 +15,7 @@ To provide simple examples for Git training
 Deployment can be on any web server or even the local file system.
 
 ## How To Contribute
+
+## Copyright
+
+Copyright 2017 Jason
