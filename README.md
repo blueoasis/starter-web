@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project to demonstrate using Git and Github. Lorem Ipsum.
+This is a simple website project to demonstrate using Git and Github. A rebasing example from master, plus some new changes on myfeature branch.
 
 ## Introduction
 
